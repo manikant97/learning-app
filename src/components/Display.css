@@ -1,0 +1,27 @@
+/* Display.css */
+.display-container {
+    background-image: url('/public/assest/image 1.jpg'); /* Ensure the path is correct */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh; /* Ensure the background covers the full viewport height */
+  }
+  
+  .content {
+    padding: 2rem;
+    background-color: rgba(255, 255, 255, 0.8); /* Add a white background with opacity for readability */
+    max-width: 800px;
+    margin: auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add a subtle shadow for better visibility */
+  }
+  
+  .content h2 {
+    color: #333;
+  }
+  
+  .content p {
+    color: #666;
+    line-height: 1.6;
+  }
+  

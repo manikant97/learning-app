@@ -4,7 +4,7 @@ export default function Navbar() {
   return (
     <nav className="navbar">
       <div className="navbar-logo">
-        <h1>MyApp</h1>
+        <h1>Study app</h1>
       </div>
       <ul className="navbar-links">
         <li><a href="#home">Home</a></li>
