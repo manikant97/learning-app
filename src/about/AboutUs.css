@@ -1,0 +1,24 @@
+/* AboutUs.css */
+.aboutus-container {
+    background-color: #d4c7c7;
+    min-height: 100vh;
+  }
+  
+  .aboutus-content {
+    padding: 2rem;
+    max-width: 800px;
+    margin: auto;
+    background-color: rgb(223, 199, 199);
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add a subtle shadow for better visibility */
+  }
+  
+  .aboutus-content h2 {
+    color: #333;
+  }
+  
+  .aboutus-content p {
+    color: #666;
+    line-height: 1.6;
+  }
+  
